@@ -2,7 +2,7 @@
   
 A Web Application used to transfer money between multiple users, containing data of 10 customers.  
 
-# Tech Stack used - 
+# Technology used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
 Database : MySQL   
